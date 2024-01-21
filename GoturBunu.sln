@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GoturBunu.Api", "GoturBunu.Api\GoturBunu.Api.csproj", "{403545F5-4AA1-4C31-A819-303EBBCA282F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GoturBunu.Persistance", "GoturBunu.Persistance\GoturBunu.Persistance.csproj", "{E5746A77-98C3-46FA-8246-349D8A3502C4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GoturBunu.Application", "GoturBunu.Application\GoturBunu.Application.csproj", "{B7390D9A-E728-4133-8FF1-0DC288334E4C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GoturBunu.Domain", "GoturBunu.Domain\GoturBunu.Domain.csproj", "{42791C3D-5718-428C-9D69-A652280E5CAB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GoturBunu.Infrastructure", "GoturBunu.Infrastructure\GoturBunu.Infrastructure.csproj", "{A6C79D11-BC68-46FE-9B0E-A03011381E9E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GoturBunu.Presentation", "GoturBunu.Presentation\GoturBunu.Presentation.csproj", "{36B51214-0471-473E-B79B-B97AA7C7E53B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{403545F5-4AA1-4C31-A819-303EBBCA282F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{403545F5-4AA1-4C31-A819-303EBBCA282F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{403545F5-4AA1-4C31-A819-303EBBCA282F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{403545F5-4AA1-4C31-A819-303EBBCA282F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5746A77-98C3-46FA-8246-349D8A3502C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5746A77-98C3-46FA-8246-349D8A3502C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5746A77-98C3-46FA-8246-349D8A3502C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5746A77-98C3-46FA-8246-349D8A3502C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7390D9A-E728-4133-8FF1-0DC288334E4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7390D9A-E728-4133-8FF1-0DC288334E4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7390D9A-E728-4133-8FF1-0DC288334E4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7390D9A-E728-4133-8FF1-0DC288334E4C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42791C3D-5718-428C-9D69-A652280E5CAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42791C3D-5718-428C-9D69-A652280E5CAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42791C3D-5718-428C-9D69-A652280E5CAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42791C3D-5718-428C-9D69-A652280E5CAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6C79D11-BC68-46FE-9B0E-A03011381E9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6C79D11-BC68-46FE-9B0E-A03011381E9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6C79D11-BC68-46FE-9B0E-A03011381E9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6C79D11-BC68-46FE-9B0E-A03011381E9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36B51214-0471-473E-B79B-B97AA7C7E53B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36B51214-0471-473E-B79B-B97AA7C7E53B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36B51214-0471-473E-B79B-B97AA7C7E53B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36B51214-0471-473E-B79B-B97AA7C7E53B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {683B72DF-06D5-40D4-8B57-750241A7E642}
+	EndGlobalSection
+EndGlobal

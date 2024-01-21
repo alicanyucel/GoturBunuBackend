@@ -1,0 +1,15 @@
+C:\GoturBunuProje\gotur-bunu\src\GoturBunu.Domain\bin\Debug\net6.0\GoturBunu.Domain.deps.json
+C:\GoturBunuProje\gotur-bunu\src\GoturBunu.Domain\bin\Debug\net6.0\GoturBunu.Domain.runtimeconfig.json
+C:\GoturBunuProje\gotur-bunu\src\GoturBunu.Domain\bin\Debug\net6.0\GoturBunu.Domain.dll
+C:\GoturBunuProje\gotur-bunu\src\GoturBunu.Domain\bin\Debug\net6.0\GoturBunu.Domain.pdb
+C:\GoturBunuProje\gotur-bunu\src\GoturBunu.Domain\obj\Debug\net6.0\GoturBunu.Domain.csproj.AssemblyReference.cache
+C:\GoturBunuProje\gotur-bunu\src\GoturBunu.Domain\obj\Debug\net6.0\GoturBunu.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\GoturBunuProje\gotur-bunu\src\GoturBunu.Domain\obj\Debug\net6.0\GoturBunu.Domain.AssemblyInfoInputs.cache
+C:\GoturBunuProje\gotur-bunu\src\GoturBunu.Domain\obj\Debug\net6.0\GoturBunu.Domain.AssemblyInfo.cs
+C:\GoturBunuProje\gotur-bunu\src\GoturBunu.Domain\obj\Debug\net6.0\GoturBunu.Domain.csproj.CoreCompileInputs.cache
+C:\GoturBunuProje\gotur-bunu\src\GoturBunu.Domain\obj\Debug\net6.0\EFCoreSqlServerNetTopologySuite.cs
+C:\GoturBunuProje\gotur-bunu\src\GoturBunu.Domain\obj\Debug\net6.0\GoturBunu.Domain.dll
+C:\GoturBunuProje\gotur-bunu\src\GoturBunu.Domain\obj\Debug\net6.0\refint\GoturBunu.Domain.dll
+C:\GoturBunuProje\gotur-bunu\src\GoturBunu.Domain\obj\Debug\net6.0\GoturBunu.Domain.pdb
+C:\GoturBunuProje\gotur-bunu\src\GoturBunu.Domain\obj\Debug\net6.0\GoturBunu.Domain.genruntimeconfig.cache
+C:\GoturBunuProje\gotur-bunu\src\GoturBunu.Domain\obj\Debug\net6.0\ref\GoturBunu.Domain.dll
